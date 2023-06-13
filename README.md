@@ -6,5 +6,5 @@ API — https://api.openweathermap.org
 API key required.
 Create your free API key at https://openweathermap.org/api
 
-![App Image Example](Images/AppImageExample1.png)
-![App Image Example](Images/AppImageExample2.png)
+![App Image Example](https://github.com/MyAwesomeGit/myWeather-storyboard/blob/main/Images/AppImageExample1.PNG)
+![App Image Example](https://github.com/MyAwesomeGit/myWeather-storyboard/blob/main/Images/AppImageExample2.PNG)
